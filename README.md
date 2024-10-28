@@ -2,7 +2,7 @@
 This repository created for a mutual fund plan for selecting the stocks where an investor can benefit in the long term
 
 ## Problem Description
-Mutual funds are investment plans that pool money from multiple investors to purchase a diversified portfolio of stocks, bonds, and other securities, managed by professional fund managers. A mutual fund plan is created by selecting the stocks where an investor can benefit in the long term. So, if you want to learn how a mutual fund plan is created by analyzing the market performance over time, this article is for you. In this article, I’ll take you through the task of creating a mutual fund plan with Python.
+Mutual funds are investment plans that pool money from multiple investors to purchase a diversified portfolio of stocks, bonds, and other securities, managed by professional fund managers. A mutual fund plan is created by selecting the stocks where an investor can benefit in the long term. 
 
 ### Creating a Mutual Fund
 A mutual fund plan is created by selecting the stocks where an investor can benefit in the long term. Here’s the process we can follow to create a mutual fund plan:  
